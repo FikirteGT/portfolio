@@ -64,7 +64,7 @@ $page = $_GET['page'] ?? 'home';
         <p>Career Goal: To become a full-stack developer specializing in scalable web applications.</p>
     <?php elseif ($page === 'about'): ?>
         <h2>About Me</h2>
-        <p>Education: I am currently a student in Information Systems at XYZ University.</p>
+        <p>Education: I am currently a student in Information Systems at Addis Abeba University.</p>
         <p>Interests: PHP, web development, and databases.</p>
     <?php elseif ($page === 'projects'): ?>
         <h2>My Projects</h2>
