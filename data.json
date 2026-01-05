@@ -1,0 +1,96 @@
+{
+    "title": "My Portfolio",
+    "subtitle": "Creative Developer & Designer",
+    "hero": {
+        "tagline": "Building the Future, One Pixel at a Time",
+        "cta": "Explore My Work"
+    },
+    "about": {
+        "text": "I'm a passionate developer with a focus on clean, user-friendly interfaces. I love turning ideas into interactive experiences that delight users. When not coding, you'll find me sketching designs or exploring new tech."
+    },
+    "skills": [
+        {
+            "name": "PHP & Laravel",
+            "level": 95
+        },
+        {
+            "name": "JavaScript & React",
+            "level": 90
+        },
+        {
+            "name": "CSS & Tailwind",
+            "level": 85
+        },
+        {
+            "name": "UI/UX Design",
+            "level": 88
+        },
+        {
+            "name": "MySQL & MongoDB",
+            "level": 80
+        }
+    ],
+    "experience": [
+        {
+            "role": "Senior Full-Stack Developer",
+            "company": "Tech Innovators Inc.",
+            "duration": "2022 - Present",
+            "description": "Led development of scalable web applications, optimizing performance and user engagement."
+        },
+        {
+            "role": "Frontend Developer",
+            "company": "Design Studio Co.",
+            "duration": "2020 - 2022",
+            "description": "Crafted responsive interfaces for client projects, focusing on modern design principles."
+        }
+    ],
+    "projects": [
+        {
+            "title": "E-Commerce Dashboard",
+            "description": "A responsive admin panel built with PHP, MySQL, and modern CSS. Features real-time analytics and intuitive navigation.",
+            "link": "https://example.com/project1",
+            "tech": [
+                "PHP",
+                "MySQL",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Portfolio Site (This One!)",
+            "description": "A simple, design-focused showcase using pure PHP and CSS. Emphasizes elegance over complexity.",
+            "link": "#",
+            "tech": [
+                "PHP",
+                "CSS",
+                "JSON"
+            ]
+        },
+        {
+            "title": "Mobile App Prototype",
+            "description": "Interactive wireframes for a fitness tracking app, designed with Figma and implemented in HTML/JS.",
+            "link": "https://example.com/project3",
+            "tech": [
+                "Figma",
+                "HTML",
+                "JS"
+            ]
+        }
+    ],
+    "contact": [
+        {
+            "label": "Email",
+            "value": "Group1@example.com",
+            "type": "mailto"
+        },
+        {
+            "label": "LinkedIn",
+            "value": "https://linkedin.com/in/example",
+            "type": "url"
+        },
+        {
+            "label": "GitHub",
+            "value": "https://github.com/example",
+            "type": "url"
+        }
+    ]
+}
